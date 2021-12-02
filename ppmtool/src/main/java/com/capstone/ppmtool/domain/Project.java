@@ -1,7 +1,11 @@
 package com.capstone.ppmtool.domain;
 
 import javax.persistence.*;
+import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.Size;
+
+import com.fasterxml.jackson.annotation.JsonFormat;
+
 import java.util.Date;
 
 @Entity
@@ -16,12 +20,15 @@ public class Project {
 	@Size(min=4, max=5, message = "Please use 4 to 5 characters")
 	@Column(updatable = false, unique = true)
 	private String projectIdentifier;
-	@NotBlank
+	@NotBlank(message = "Project description is required")
 	private String description;
+	@JsonFormat(pattern = "yyy-mm-dd")
 	private Date start_date;
+	@JsonFormat(pattern = "yyy-mm-dd")
 	private Date end_date;
-
+	@JsonFormat(pattern = "yyy-mm-dd")
 	private Date created_At;
+	@JsonFormat(pattern = "yyy-mm-dd")
 	private Date updated_At;
 
 	public Project() {
