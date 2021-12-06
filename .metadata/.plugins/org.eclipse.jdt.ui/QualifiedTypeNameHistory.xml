@@ -9,4 +9,5 @@
     <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonFormat"/>
     <fullyQualifiedTypeName name="org.springframework.validation.annotation.Validated"/>
     <fullyQualifiedTypeName name="org.springframework.validation.FieldError"/>
+    <fullyQualifiedTypeName name="com.capstone.ppmtool.services.MapValidationErrorService"/>
 </qualifiedTypeNameHistroy>
