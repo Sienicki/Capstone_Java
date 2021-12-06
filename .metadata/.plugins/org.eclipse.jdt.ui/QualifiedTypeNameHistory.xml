@@ -10,4 +10,5 @@
     <fullyQualifiedTypeName name="org.springframework.validation.annotation.Validated"/>
     <fullyQualifiedTypeName name="org.springframework.validation.FieldError"/>
     <fullyQualifiedTypeName name="com.capstone.ppmtool.services.MapValidationErrorService"/>
+    <fullyQualifiedTypeName name="com.capstone.ppmtool.exceptions.ProjectIdException"/>
 </qualifiedTypeNameHistroy>

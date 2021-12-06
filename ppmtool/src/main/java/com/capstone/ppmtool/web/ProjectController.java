@@ -21,7 +21,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-//@Validated
+@Validated
 @RestController
 @RequestMapping("/api/project")
 public class ProjectController {
