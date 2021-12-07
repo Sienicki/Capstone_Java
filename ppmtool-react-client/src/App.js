@@ -1,12 +1,14 @@
 import React, { Component } from "react";
-import './App.css';
+import "./App.css";
 import Dashboard from "./components/Dashboard";
+import Header from "./components/Layout/Header";
 
 class App extends Component {
-  render (){
+  render() {
     return (
       <div className="App">
-      <Dashboard />
+        <Header />
+        <Dashboard />
       </div>
     );
   }
