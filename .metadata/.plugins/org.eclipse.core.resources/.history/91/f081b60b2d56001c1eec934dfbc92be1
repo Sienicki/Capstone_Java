@@ -1,5 +1,0 @@
-package com.capstone.ppmtool.exceptions;
-
-public class ProjectIdException {
-
-}

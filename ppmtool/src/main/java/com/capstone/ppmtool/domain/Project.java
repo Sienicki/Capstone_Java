@@ -1,13 +1,14 @@
 package com.capstone.ppmtool.domain;
 
 import javax.persistence.*;
+import javax.validation.Valid;
 import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.Size;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
-
 import java.util.Date;
 
+@Valid
 @Entity
 public class Project {
 
