@@ -17,4 +17,5 @@
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.CrossOrigin"/>
     <fullyQualifiedTypeName name="javax.validation.constraints.NotNull"/>
     <fullyQualifiedTypeName name="javax.validation.Valid"/>
+    <fullyQualifiedTypeName name="javax.persistence.Entity"/>
 </qualifiedTypeNameHistroy>
