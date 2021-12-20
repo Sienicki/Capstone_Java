@@ -1383,3 +1383,4 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: start tag u
 2021-12-20 11:55:09,877 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\justi\Documents\Capstone_Project\ppmtool\src\test\resources
 2021-12-20 13:03:42,985 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
 2021-12-20 14:36:28,602 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-12-20 16:05:58,934 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
