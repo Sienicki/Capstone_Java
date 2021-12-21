@@ -23,12 +23,12 @@
     <fullyQualifiedTypeName name="javax.persistence.OneToMany"/>
     <fullyQualifiedTypeName name="javax.persistence.CascadeType"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
-    <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonIgnore"/>
     <fullyQualifiedTypeName name="com.capstone.ppmtool.repositories.BacklogRepository"/>
     <fullyQualifiedTypeName name="com.capstone.ppmtool.repositories.ProjectTaskRepository"/>
     <fullyQualifiedTypeName name="com.capstone.ppmtool.domain.Backlog"/>
     <fullyQualifiedTypeName name="com.capstone.ppmtool.services.ProjectTaskService"/>
     <fullyQualifiedTypeName name="com.capstone.ppmtool.services.MapValidationErrorService"/>
     <fullyQualifiedTypeName name="com.capstone.ppmtool.domain.ProjectTask"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonIgnore"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
 </qualifiedTypeNameHistroy>
