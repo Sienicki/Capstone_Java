@@ -32,4 +32,5 @@
     <fullyQualifiedTypeName name="com.capstone.ppmtool.domain.Project"/>
     <fullyQualifiedTypeName name="com.capstone.ppmtool.exceptions.ProjectNotFoundException"/>
     <fullyQualifiedTypeName name="com.capstone.ppmtool.repositories.ProjectRepository"/>
+    <fullyQualifiedTypeName name="java.security.Principal"/>
 </qualifiedTypeNameHistroy>
