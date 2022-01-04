@@ -1,0 +1,5 @@
+package com.capstone.ppmtool.security;
+
+public class JwtAuthenticationEntryPoint {
+
+}
